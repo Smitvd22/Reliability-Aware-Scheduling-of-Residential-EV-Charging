@@ -2,6 +2,8 @@
 
 **Overleaf Latex Code: [Link](https://www.overleaf.com/project/6ae45ca3f4f99545ecfb6edd/share#939994aabb88afa33fa735d7028cb73c9c585280c68be96d)**
 
+**Github: [Link](https://github.com/Smitvd22/Reliability-Aware-Scheduling-of-Residential-EV-Charging)**
+
 [![Tests: Passing](https://img.shields.io/badge/pytest-29%2F29%20passed-brightgreen.svg)]()
 [![Python: 3.12](https://img.shields.io/badge/python-3.12-blue.svg)]()
 
